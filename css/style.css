@@ -51,10 +51,13 @@ Table of Content:
 
 a {
   text-decoration: none;
+  color: #0facd4;
   transition: all 0.3s ease-in-out; }
   a:hover, a:focus {
     text-decoration: none;
-    outline: none; }
+    outline: none; 
+    color: #8391ff;
+  }
 
 .row.m0 {
   margin: 0px; }
